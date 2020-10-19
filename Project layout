@@ -5,18 +5,45 @@ Overall description:
   3 roles available: visitor, user, admin.
   
   Pages:
+    
     Landing Page
+       * splash screen, what, where, why
+       
     AboutUs Page
-    Product Page
+       * Who we are 
+       
+    Products Page
+       * Modular design allows arbitrary minimal views of products
+       
     Product Description Page
+       * Full view of image item, long description w/ specifications
+    
     Contact Us Page
+       * Programmer info
+    
     Login Page
+       * username/pw 
+       
     Register Page
+       * Customer info- address, username, email, password
+    
     Track Page
+      
     Payments (Checkout) Page
+        * Shopping cart options
+    
     Admin Page (Analytics here?)
+       * List of orders, customers, email templates
+       * Historical order data, visualization 
+       
+    Accessibility
+       * declarative html for screen readers 
 
-  Database: (TBD)
+    Database tables
+       * username/pw/email
+       * orders
+       * inventory
+       
   
   
   
