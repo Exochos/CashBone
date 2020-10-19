@@ -1,0 +1,21 @@
+Overall description:
+ We want to create a website that can sell a product to be determined later, things to include:
+ data analysis 
+
+  3 roles available: visitor, user, admin.
+  
+  Pages:
+    Landing Page
+    AboutUs Page
+    Product Page
+    Product Description Page
+    Contact Us Page
+    Login Page
+    Register Page
+    Track Page
+    Payments (Checkout) Page
+    Admin Page (Analytics here?)
+
+  Database: (TBD)
+  
+  
