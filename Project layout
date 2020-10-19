@@ -1,6 +1,6 @@
 Overall description:
  We want to create a website that can sell a product to be determined later, things to include:
- data analysis 
+ data analysis - trend-lines, admin abilities.
 
   3 roles available: visitor, user, admin.
   
@@ -17,5 +17,7 @@ Overall description:
     Admin Page (Analytics here?)
 
   Database: (TBD)
+  
+  
   
   
